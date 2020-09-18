@@ -56,5 +56,5 @@ const cube = new CubeMakerNew ({
     height: 5
 })
 
-console.log("My new cube extended from CuboidMaker Surface Area:",cube.surfaceArea())//150 
-console.log("My new cube extended from CuboidMaker Volume:",cube.volume()) //125
+console.log("****STRETCH**** My new cube extended from CuboidMaker Surface Area:",cube.surfaceArea())//150 
+console.log("****STRETCH**** My new cube extended from CuboidMaker Volume:",cube.volume()) //125
